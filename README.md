@@ -6,4 +6,5 @@
 - [20231128-04-UIB-CSS-Units-DevTools](https://github.com/WD-23-D10-A/04-UIB-CSS-Units-DevTools)
 - [20231129-05-UIB-Images-und-Gh-Copilot](https://github.com/WD-23-D10-A/05-UIB-Images-und-Gh-Copilot)
 - [20231130-06-UIB-Accessibility-Cascade-Spezifizität-und-Vererbung](https://github.com/WD-23-D10-A/06-UIB-Accessibility-Cascade-Spezifizit-t-und-Vererbung)
-- [20231204-07-Box-Model-Intro-main-Tag-semantische-Tags](https://github.com/WD-23-D10-A/07-Box-Model-Intro-main-Tag-semantische-Tags)
+- [20231204-07-UIB-Box-Model-Intro-main-Tag-semantische-Tags](https://github.com/WD-23-D10-A/07-Box-Model-Intro-main-Tag-semantische-Tags)
+- [20231205-08-UIB--Modellierung-von-Boxen](https://github.com/WD-23-D10-A/08-UIB--Modellierung-von-Boxen)
