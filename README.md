@@ -9,3 +9,5 @@
 - [20231204-07-UIB-Box-Model-Intro-main-Tag-semantische-Tags](https://github.com/WD-23-D10-A/07-Box-Model-Intro-main-Tag-semantische-Tags)
 - [20231205-08-UIB--Modellierung-von-Boxen](https://github.com/WD-23-D10-A/08-UIB--Modellierung-von-Boxen)
 - [20231206-09-UIB-Background-Images-Positioning](https://github.com/WD-23-D10-A/09-UIB-Background-Images-Positioning)
+- 20231207-Assessment-I-&-Exam-I
+- [20231211-11-UIB-UI-UX-Intro-Fonts](https://github.com/WD-23-D10-A/11-UIB-UI-UX-Intro-Fonts)
