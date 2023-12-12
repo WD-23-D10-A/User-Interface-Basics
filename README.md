@@ -12,3 +12,4 @@
 - 20231207-10-UIB-Assessment-I-&-Exam-I
 - [20231211-11-UIB-UI-UX-Intro-Fonts](https://github.com/WD-23-D10-A/11-UIB-UI-UX-Intro-Fonts)
 - [20231212-12-UIB-Font-Size-Textrichtung-Font-Styles](https://github.com/WD-23-D10-A/12-UIB-Font-Size-Textrichtung-Font-Styles)
+- [20231213-13-UIB-Icon-Fonts](https://github.com/WD-23-D10-A/13-UIB-Icon-Fonts)
